@@ -25,18 +25,11 @@ As seguintes etapas foram implementadas:
 4. **Armazenamento dos dados**:
    - Os dados coletados são salvos em um arquivo **JSON**, permitindo uma análise futura dos anúncios extraídos.
   
-  
-2. **Parte de Análise de Dados do Data Hackers 2023**:
+
+# **Parte de Análise de Dados do Data Hackers 2023**:
    O segundo projeto envolve a análise exploratória de um dataset do **Data Hackers 2023**, publicado no Kaggle. A análise inclui visualizações sobre idade, etnia, área de formação, salário e outras características de profissionais da área de dados.
 
 A junção desses dois projetos permite uma visão completa tanto de dados de um site como a OLX quanto de uma análise mais detalhada sobre o mercado de trabalho na área de dados, com insights sobre diversidade, salários, cargos e modelos de trabalho.
-
-## Instruções para Execução
-
-### 1. Instale as dependências
-
-Certifique-se de ter o Python instalado em sua máquina. Para instalar as dependências necessárias, execute o seguinte comando:
-
 
 
 ## Instruções para Execução
