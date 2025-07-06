@@ -1,10 +1,6 @@
 # Projeto_Final_RDI
 Realizado por:
 - Felipe Teodoro
-- Jamille Rocha
-- Pedro Aragão
-- Manuella Borges
-- Henrique Valle
 
 # Utilizando Scrapy para raspar dados da OLX
 
